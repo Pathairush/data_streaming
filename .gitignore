@@ -1,0 +1,5 @@
+**/__pycache__
+**/.ipynb_checkpoints
+kafka_lecture
+spark_lecture
+.DS_Store
